@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/rameshwaryadav](https://github.com/rameshwaryadav)
 
 - 💬 Ask me about **Software Engineering Intern with strong skills in C++, Python, and Web Development - Seeking Opportunities**
-
+<img scr="https://media4.giphy.com/media/bJ4TVNYNUympPgcpem/200w.webp?cid=ecf05e47w3nn9gcd5btbdb2wuw606f5153i80vobnk6nismy&rid=200w.webp&ct=g">
 - 📫 How to reach me **rameshwar8061@gmail.com**
 
 - ⚡ Fun fact **i think i am funny**

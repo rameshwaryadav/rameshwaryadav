@@ -1,71 +1,126 @@
-<h1 align="center">Hi there, I'm Rameshwar Yadav 👋</h1>
-<h3 align="center">A passionate Full Stack Developer building the future of the web.</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NuMmlzcjdpbzI3eWJocG9qZzAza29iMnp6MjdvZ2o5dnpzOW56MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S9oG5xA4N02Jq/giphy.gif" width="300px">
+</div>
+
+<h1 align="center">Hey there! I'm Rameshwar Yadav 👋</h1>
+<h3 align="center">A Tech Enthusiast | Problem Solver | Lifelong Learner</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk4Y2Q3ZDM4Yjk5YmY0ZDE3MTYwNzRlZjY3YmRjZDk3Y2ZmYjUwZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5hpueFgs/giphy.gif" width="400" />
+  I'm a passionate developer with a strong foundation in Data Structures & Algorithms and a keen interest in the world of Artificial Intelligence and Machine Learning. I love to build solutions that are efficient, scalable, and impactful.
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **a cool E-commerce project using the MERN stack.**
-- 🌱 I’m currently learning **Next.js and TypeScript.**
-- 👯 I’m looking to collaborate on **open-source web development projects.**
-- 💬 Ask me about **React, Node.js, JavaScript, and anything related to web technologies.**
-- 📫 How to reach me: **rameshwaryadav.dev@gmail.com**
-- ⚡ Fun fact: **I love to turn coffee into code!**
-
----
-
-### 🛠️ My Tech Stack
-
-Here are a few technologies I've been working with recently:
-
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <strong>Backend:</strong><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <strong>Languages & Tools:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://rameshwaryadav.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="rameshwaryadav"/></a>
-  <a href="https://twitter.com/YourTwitterUsername" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="YourTwitterUsername"/></a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="YourLinkedInUsername"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+### 🚀 My Core Competencies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshwaryadav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="rameshwaryadav's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwaryadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="rameshwaryadav's top languages" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="DSA"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Artificial%20Intelligence-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="AI"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="ML"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Web%20Development-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="WebDev"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ My Tech Arsenal
+
+Here's a list of technologies and tools I work with:
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+      <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
+      <br><strong>Scikit-learn</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" alt="Pandas" />
+      <br><strong>Pandas</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" alt="NumPy" />
+      <br><strong>NumPy</strong>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br><strong>React.js</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+     <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+      <br><strong>Postman</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌱 What I'm Up To
+
+- 🔭 I’m currently building an **AI-powered recommendation engine.**
+- 🌱 I’m currently deepening my knowledge in **Deep Learning and Neural Networks.**
+- 👯 I’m looking to collaborate on **open-source AI/ML projects or competitive programming challenges.**
+- 💬 Ask me anything about **DSA, Python, or Web Development!**
+
+---
+
+### 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameshwaryadav&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="rameshwaryadav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwaryadav&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="rameshwaryadav's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshwaryadav&theme=tokyo-night&hide_border=true" alt="rameshwaryadav's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshwaryadav&theme=dracula&hide_border=true" alt="rameshwaryadav's activity graph" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://rameshwaryadav.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://twitter.com/YourTwitterUsername" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/YourLinkedInUsername" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>

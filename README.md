@@ -11,7 +11,6 @@ Currently, I am pursuing my Master’s degree in Information Technology while im
 Technologies & Tools:
 
 Languages & Frameworks:
-- Java
 - Python
 - C++
 - SQL
